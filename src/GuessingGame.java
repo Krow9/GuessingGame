@@ -7,7 +7,7 @@ public class GuessingGame {
         int guess = 0;
         int count = 0;
 
-        // Your code goes here
+        // Your code goes here //
 
         while( guess != secret ) {
             System.out.print("Guess a Number from 1 to 100: ");
